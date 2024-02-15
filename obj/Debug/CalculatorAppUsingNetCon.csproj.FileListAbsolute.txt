@@ -1,0 +1,7 @@
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\CalculatorAppUsingNetCon\CalculatorAppUsingNetCon\bin\Debug\CalculatorAppUsingNetCon.exe.config
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\CalculatorAppUsingNetCon\CalculatorAppUsingNetCon\bin\Debug\CalculatorAppUsingNetCon.exe
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\CalculatorAppUsingNetCon\CalculatorAppUsingNetCon\bin\Debug\CalculatorAppUsingNetCon.pdb
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\CalculatorAppUsingNetCon\CalculatorAppUsingNetCon\obj\Debug\CalculatorAppUsingNetCon.csproj.AssemblyReference.cache
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\CalculatorAppUsingNetCon\CalculatorAppUsingNetCon\obj\Debug\CalculatorAppUsingNetCon.csproj.CoreCompileInputs.cache
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\CalculatorAppUsingNetCon\CalculatorAppUsingNetCon\obj\Debug\CalculatorAppUsingNetCon.exe
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\CalculatorAppUsingNetCon\CalculatorAppUsingNetCon\obj\Debug\CalculatorAppUsingNetCon.pdb
